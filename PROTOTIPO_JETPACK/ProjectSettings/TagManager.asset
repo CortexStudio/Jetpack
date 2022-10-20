@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerDead
+  - Landing
+  - Ground
+  - GUIFuel
+  - Fuel
+  - Score
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - VFX
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgrounds
+    uniqueID: 2159674985
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Explosion
+    uniqueID: 405822933
+    locked: 0
+  - name: Character
+    uniqueID: 3770534031
+    locked: 0
+  - name: VFX
+    uniqueID: 1263401699
+    locked: 0
+  - name: Platforms
+    uniqueID: 2321957439
+    locked: 0
